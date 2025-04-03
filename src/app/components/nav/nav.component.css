@@ -36,8 +36,8 @@ img{
 }
 
 .menutoggle button {
-  width: 1.8rem !important;
-  height: 1.8rem !important;
+  width: 2.5rem !important;
+  height: 2.5rem !important;
   min-width: unset !important; /* Remove o tamanho mínimo padrão */
   padding: 0 !important; /* Remove qualquer espaço interno extra */
   display: flex;
@@ -51,7 +51,7 @@ img{
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.1rem !important; /* Diminui o tamanho do ícone */
+  font-size: 1.8rem !important; /* Diminui o tamanho do ícone */
 }
 /* CSS criado para sobrescrever o material - Fim. */
 

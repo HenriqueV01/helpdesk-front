@@ -11,7 +11,7 @@ export class NavComponent implements OnInit{
   constructor(private router: Router){ }
 
   ngOnInit(): void {
-    this.router.navigate(['home'])//Carrega /home dentro de nav quando o componente nav for iniciado.
+    this.router.navigate(['tecnicos'])//Carrega /home dentro de nav quando o componente nav for iniciado.
   }
 
 }
